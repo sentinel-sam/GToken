@@ -1,0 +1,29 @@
+.progress-bar:after{
+    width: 10%;
+}
+.ico__btn{
+    width: 50%;
+    margin: 0 auto 45px;
+
+}
+.p{
+    margin: 0 auto 54px;
+}
+.promo .container .row .promo__content .promo__links-wrap .promo__link{
+    width: 100%; 
+    justify-content: center;
+    margin: 0; 
+}
+.promo .container .row .promo__content .promo__btns-wrap{
+    justify-content: center;
+}
+.ico #flipdown{
+    margin: 30px auto 60px
+}
+
+
+@media(max-width: 850px){
+    .ico__btn{
+        width: 100%;
+    }
+}
